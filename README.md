@@ -47,6 +47,7 @@ The reset functionality is implemented using a JavaScript function that resets t
 
 
 <br>
+
 ## Technologies Used
 
 1. HTML
